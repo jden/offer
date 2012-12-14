@@ -1,0 +1,18 @@
+{
+  "name": "offer",
+  "version": "0.1.0",
+  "description": "attach cancelable event listeners",
+  "main": "offer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jden/offer.git"
+  },
+  "keywords": [
+    "events"
+  ],
+  "author": "jden <jason@denizac.org>",
+  "license": "MIT"
+}

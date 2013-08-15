@@ -1,6 +1,6 @@
 {
   "name": "offer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "attach cancelable event listeners",
   "scripts": {
     "test": "node node_modules/mocha/bin/_mocha"
